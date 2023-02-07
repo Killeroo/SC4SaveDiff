@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SC4Diff": {
+      "commandName": "Project",
+      "commandLineArgs": "\"City - Panem (old).sc4\" \"City - Panem (new).sc4\""
+    }
+  }
+}

@@ -11,4 +11,13 @@
     <PackageReference Include="SC4Parser" Version="1.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="City - Panem %28new%29.sc4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="City - Panem %28old%29.sc4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
